@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="title_activity_index">IndexActivity</string>
+    <string name="saved_value_key">value</string>
+    <string name="checkbox_checked_boolean">checkbox</string>
+</resources>
