@@ -10,13 +10,13 @@
         android:layout_width="match_parent"
         android:layout_height="658dp"
         android:layout_weight="1"
-        android:textSize="8sp"
-        android:typeface="monospace"
-        android:gravity="top|left"
+        android:gravity="center_vertical"
         android:hint=""
         android:inputType="textMultiLine"
+        android:scrollbars="vertical"
         android:singleLine="false"
-        android:scrollbars="vertical" />
+        android:textSize="8sp"
+        android:typeface="monospace" />
 
     <Button
         android:id="@+id/button"

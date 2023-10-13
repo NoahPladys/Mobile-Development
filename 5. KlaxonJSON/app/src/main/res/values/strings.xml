@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KlaxonJSON</string>
+    <string name="button_tag">Load students</string>
+</resources>
