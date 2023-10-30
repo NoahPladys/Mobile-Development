@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OSMDroid</string>
+    <string name="urlSearch">https://nominatim.openstreetmap.org/search?q=</string>
+    <string name="hint_text">Address\n</string>
+    <string name="clearButton_text">Clear</string>
+    <string name="searchButton_text">Search</string>
+</resources>
